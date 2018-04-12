@@ -85,5 +85,3 @@ FROM products_analysis
 WHERE support >= 0.2
   AND confidence >= 0.6
   AND liftratio > 1
-
-
