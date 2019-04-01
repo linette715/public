@@ -9,6 +9,6 @@ xcode-select --install
 brew update
 brew install mas
 brew install git
-mas signin email@email.com
+# mas signin email@email.com
 
 
