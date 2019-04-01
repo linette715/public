@@ -8,4 +8,7 @@ xcode-select --install
 ## Install Mac AppStore CLI
 brew update
 brew install mas
+brew install git
 mas signin email@email.com
+
+
